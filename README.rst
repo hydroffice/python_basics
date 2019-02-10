@@ -3,14 +3,14 @@ Programming Basics with Python
 
 * Code: `GitHub repo <https://github.com/hydroffice/python_basics>`_
 * Project page: `url <https://www.hydroffice.org/epom>`_
-* Code License: `LGPLv3 <https://github.com/hydroffice/python_basics/raw/master/LICENSE-CODE>`_
+* Code License: `LGPLv3 <https://github.com/hydroffice/python_basics/raw/master/LICENSE>`_
 * Text License: `Attribution-NonCommercial-NoDerivs 3.0 Unported <https://github.com/hydroffice/python_basics/raw/master/LICENSE-TEXT>`_
 
 
 General Info
 ------------
 
-.. image:: https://github.com/hydroffice/hyo2_epom/raw/master/images/000_000_epom_logo.png
+.. image:: https://github.com/hydroffice/python_basics/raw/master/images/000_000_epom_logo.png
     :alt: ePOM logo
 
 This repository contains a collection of Programming Basics with Python notebooks.
