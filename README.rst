@@ -4,7 +4,7 @@ Programming Basics with Python
 * Code: `GitHub repo <https://github.com/hydroffice/python_basics>`_
 * Project page: `url <https://www.hydroffice.org/epom>`_
 * Code License: `LGPLv3 <https://github.com/hydroffice/python_basics/raw/master/LICENSE>`_
-* Text License: `Attribution-NonCommercial-NoDerivs 3.0 Unported <https://github.com/hydroffice/python_basics/raw/master/LICENSE-TEXT>`_
+* Text License: `Attribution-NonCommercial-NoDerivs 3.0 Unported <https://github.com/hydroffice/python_basics/raw/master/TEXT>`_
 
 
 General Info
