@@ -17,7 +17,9 @@ Contributors
 
 The following wonderful people contributed directly or indirectly to this project:
 
-- `John Doe <mailto:john.doe@email.me>`_
+- `Jason Greenlaw <mailto:greenlaw@ccom.unh.edu>`_
+
+- `Val Schmidt <mailto:vschmidt@ccom.unh.edu>`_
 
 
 Please add yourself here when you submit your first pull request.
