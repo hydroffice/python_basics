@@ -32,4 +32,4 @@ Text License
 Copyright Notice
 ----------------
 
-Copyright (c) 2019, University of New Hampshire, Center for Coastal and Ocean Mapping. All rights reserved.
+Copyright (c) 2021, University of New Hampshire, Center for Coastal and Ocean Mapping. All rights reserved.
