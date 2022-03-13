@@ -3,6 +3,6 @@
 gdal
 jupyterhub
 numpy
-python=3.6.5
+python=3.9.5
 matplotlib
 nbgitpuller 
